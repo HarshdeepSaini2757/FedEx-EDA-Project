@@ -54,26 +54,21 @@ The primary goals of this analysis are to:
 
 ## 📊 Data Visualizations
 
-The project includes **22 comprehensive charts** covering:
+The project includes **15 comprehensive charts** covering:
 
-### Univariate Analysis (6 charts)
+### Univariate Analysis (5 charts)
 - Delivery time distribution
 - Freight cost distribution
 - Cost-per-KG distribution
 - Product value distribution
 - Insurance cost distribution
-- Quantity distribution
 
-### Bivariate Analysis (11 charts)
+### Bivariate Analysis (5 charts)
 - Shipment mode analysis
 - Weight vs. freight cost correlation
 - Delivery time by mode
 - Top countries by volume
 - On-time vs late rate
-- Vendor distribution
-- Insurance cost by mode
-- Managing entity performance
-- On-time rate by country and mode
 
 ### Multivariate Analysis (5 charts)
 - Shipments by month
